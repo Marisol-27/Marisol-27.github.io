@@ -1,0 +1,43 @@
+
+html.body {
+    background-color: black;
+}
+
+.navbar {
+    background-color:black;
+    padding: 5px 20px;
+    display: flex;
+    align-items: center;
+}
+.nav-link:hover{
+    color: white !important;
+}
+
+.navbar-brand {
+    flex: 1;}
+.navbar-brand a{
+    display: flex;
+}
+.navbar-brand a:hover{
+    color:black
+}
+.navbar-brand img{
+    width: 120px;
+    height: 50px
+}
+
+.welcome {
+    background-color: black;
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 60px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+footer {
+    background-color: black;
+}
+.btn {
+    background-color: black;
+}

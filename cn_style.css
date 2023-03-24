@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+}
+
+.navbar {
+    background-color: black;
+    padding: 5px 20px;
+    display: flex;
+    align-items: center;
+}
+.nav-link:hover{
+    color: white !important;
+}
+
+.navbar-brand {
+    flex: 1;}
+.navbar-brand a{
+    display: flex;
+}
+.navbar-brand a:hover{
+    color:black
+}
+.navbar-brand img{
+    width: 120px;
+    height: 50px
+}
+.collection {
+    background-color: black;
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 60px;
+    font-family:'Times New Roman', Times, serif;
+}
+#navbar-example2 {
+    padding-bottom: 5px;
+    background-color: black;
+    align-items: center !important;
+    max-width: 150px;
+    height: fit-content;
+    margin-left: 20%;
+    margin-top: 30px;
+}
+.scrollspy-example {
+    background-color: black !important;
+    align-items: center;
+}
+.card {
+    max-width: 200px;
+    margin: 1% auto;
+}
+.card-body{
+    max-width: 200px;
+    margin: 1% auto;
+}
