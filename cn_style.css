@@ -32,7 +32,7 @@ body {
     padding-top: 70px;
     font-family: 'Great Vibes', cursive;
 }
-#navbar-example2 {
+.col-8 {
     padding-bottom: 5px;
     background-color: black;
     align-items: center !important;
@@ -40,10 +40,6 @@ body {
     height: fit-content;
     margin-left: 20%;
     margin-top: 30px;
-}
-.scrollspy-example {
-    background-color: black !important;
-    align-items: center;
 }
 .card {
     max-width: 200px;
