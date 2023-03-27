@@ -32,3 +32,12 @@ body {
     padding-top: 70px;
     font-family: 'Great Vibes', cursive;
 }
+.card {
+    width: 200px;
+    height: 600px;
+    margin: 1% auto;
+}
+.card-body{
+    max-width: 200px;
+    margin: 1% auto;
+}
