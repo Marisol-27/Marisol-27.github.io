@@ -32,20 +32,3 @@ body {
     padding-top: 70px;
     font-family: 'Great Vibes', cursive;
 }
-.col-8 {
-    padding-bottom: 5px;
-    background-color: black;
-    align-items: center !important;
-    max-width: 150px;
-    height: fit-content;
-    margin-left: 20%;
-    margin-top: 30px;
-}
-.card {
-    max-width: 200px;
-    margin: 1% auto;
-}
-.card-body{
-    max-width: 200px;
-    margin: 1% auto;
-}
