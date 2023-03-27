@@ -43,7 +43,7 @@ body {
     margin: 1% auto;
 }
 .card img {
-    height: 150px;
+    height: 150px !important;
 }
 .card-body{
     max-width: 200px;
