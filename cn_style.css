@@ -40,8 +40,8 @@ body {
     margin-left: 20%;
  }
 .card {
-    max-width: 200px;
-    max-height: 600px;
+    width: 200px;
+    height: 600px;
     margin: 1% auto;
 }
 .card-body{
