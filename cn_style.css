@@ -26,25 +26,27 @@ body {
 }
 .collection {
     background-color: black;
-    text-align: center;
+    text-align: center !important;
     padding-left: 15%;
     padding-right: 15%;
     padding-top: 70px;
-    font-family: 'Great Vibes', cursive;
+    font-family:'Times New Roman', Times, serif;
 }
 .row {
-    align-items: center !important;
-    max-width: 100%;
-    height: fit-content;
-    margin-top: 30px;
-    margin-left: 20%;
- }
+    background-color: black;
+    width: 100%;
+    padding-left: 15%;
+}
 .card {
     max-width: 200px;
-    max height: 250px;
+    max-height: 250px;
     margin: 1% auto;
+}
+.card img {
+    height: 150px;
 }
 .card-body{
     max-width: 200px;
+    max-height: 250px;
     margin: 1% auto;
 }
