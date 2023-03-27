@@ -32,6 +32,12 @@ body {
     padding-top: 70px;
     font-family: 'Great Vibes', cursive;
 }
+.row {
+    align-items: center !important;
+    max-width: 150px;
+    height: fit-content;
+    margin-top: 30px;
+ }
 .card {
     width: 200px;
     height: 600px;
