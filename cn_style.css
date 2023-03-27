@@ -37,10 +37,11 @@ body {
     max-width: 150px;
     height: fit-content;
     margin-top: 30px;
+    margin-left: 20%;
  }
 .card {
-    width: 200px;
-    height: 600px;
+    max-width: 200px;
+    max-height: 600px;
     margin: 1% auto;
 }
 .card-body{
